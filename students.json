@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Gellert Grindelwald",
+    "test": "Science",
+    "date": "03/25/2018",
+    "mark": "5"
+  },
+  {
+    "name": "Severus Snape",
+    "test": "Music",
+    "date": "03/17/2018",
+    "mark": "7"
+  },
+  {
+    "name": "Alastor Mad-Eye Moody",
+    "test": "English",
+    "date": "05/27/2018",
+    "mark": "3"
+  },
+  {
+    "name": "Newt Scamander",
+    "test": "Band",
+    "date": "03/01/2018",
+    "mark": "11"
+  },
+  {
+    "name": "Remus Lupin",
+    "test": "Music",
+    "date": "03/11/2018",
+    "mark": "5"
+  },
+  {
+    "name": "Harry Potter",
+    "test": "Art",
+    "date": "03/27/2018",
+    "mark": "7"
+  },
+  {
+    "name": "Albus Dumbledore",
+    "test": "Band",
+    "date": "02/27/2018",
+    "mark": "7"
+  },
+  {
+    "name": "Parvati Patil",
+    "test": "Art",
+    "date": "02/05/2018",
+    "mark": "12"
+  },
+  {
+    "name": "Alice Longbottom",
+    "test": "English",
+    "date": "03/07/2018",
+    "mark": "9"
+  },
+  {
+    "name": "Lily Potter",
+    "test": "Business Technology",
+    "date": "03/07/2018",
+    "mark": "4"
+  },
+  {
+    "name": "Molly Weasley",
+    "test": "Science",
+    "date": "03/03/2018",
+    "mark": "9"
+  },
+  {
+    "name": "Tom Riddle",
+    "test": "Business Technology",
+    "date": "03/11/2018",
+    "mark": "1"
+  }
+]
